@@ -1,8 +1,4 @@
-# [Hands-On Reinforcement Learning With Python](https://www.amazon.com/Hands-Reinforcement-Learning-Python-reinforcement-ebook/dp/B079Q3WLM4)
-
-
-###  Master reinforcement and deep reinforcement learning using OpenAI Gym and TensorFlow
-
+source : https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python
 
 
 
